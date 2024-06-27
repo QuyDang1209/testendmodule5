@@ -1,0 +1,88 @@
+{
+  "typebooks": [
+    {
+      "id": "1",
+      "type": "1",
+      "name_type": "kinh di",
+      "description": "kinh di"
+    },
+    {
+      "id": "2",
+      "type": "2",
+      "name_type": "trinh tham",
+      "description": "trinh tham"
+    },
+    {
+      "id": "3",
+      "type": "3",
+      "name_type": "tinh yeu",
+      "description": "tinh yeu"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "code": "BO1234",
+      "name": "sach 1",
+      "typebookId": 1,
+      "date": "2024-01-12",
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "code": "BO1235",
+      "name": "sach 2",
+      "typebookId": 2,
+      "date": "2024-01-12",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "code": "BO1236",
+      "name": "sach 3",
+      "typebookId": 3,
+      "date": "2024-01-12",
+      "quantity": 3
+    },
+    {
+      "id": 4,
+      "code": "BO1237",
+      "name": "sach 4",
+      "typebookId": 2,
+      "date": "2024-01-12",
+      "quantity": 2
+    },
+    {
+      "id": 5,
+      "code": "BO1238",
+      "name": "sach 5",
+      "typebookId": 3,
+      "date": "2024-01-12",
+      "quantity": 4
+    },
+    {
+      "code": "1",
+      "name": "quy",
+      "typebookId": "1",
+      "date": "2024-06-06",
+      "quantity": "2",
+      "id": 6
+    },
+    {
+      "code": "BO1212",
+      "name": "quy",
+      "typebookId": "1",
+      "date": "2024-06-26",
+      "quantity": "3",
+      "id": 7
+    },
+    {
+      "code": "BO1111",
+      "name": "sach 6",
+      "typebookId": "1",
+      "date": "2024-06-01",
+      "quantity": "1",
+      "id": 8
+    }
+  ]
+}
